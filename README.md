@@ -83,7 +83,7 @@ To run this Application, you will need the following :
 - **No Demo Keys Provided :** We do not offer demo activation keys. All features and instructions are clearly demonstrated in the provided videos. Please watch them to fully understand how VirtuCam works and decide if the app meets your needs before purchasing
 
 
-- **ä»…é™åŽäºº :** å¯¹äºŽä¸­å›½ç”¨æˆ·ï¼Œè¯·ä½¿ç”¨ä¸åŒçš„IPåœ°å€æ¿€æ´»åº”ç”¨ç¨‹åºã€‚æ¿€æ´»åŽï¼Œæ‚¨å¯ä»¥åˆ‡æ¢å›žå¸¸è§„çš„IPåœ°å€è¿›è¡Œæ­£å¸¸ä½¿ç”¨
+- 
 ## ðŸ·ï¸ FAQ
 
 #### âž¤ Do you provide demo keys
@@ -96,25 +96,22 @@ Yes, you must just hide root via magisk app
 No, the plans available in the channel 
 
 #### âž¤ Where can i buy a key 
-from here : https://t.me/VirtuKey_Bot
+[From Here](mailto:virtualcamera.android@yahoo.com)
 ## ðŸ”— Links
 
-
 #### ðŸ’¬ Need Support?
-[![Contact Support](mailto:virtualcamera.android@yahoo.com)
+[Contact Support](mailto:virtualcamera.android@yahoo.com)
 
 #### ðŸ”‘ Buy a Key:
-[![Buy a Key](mailto:virtualcamera.android@yahoo.com)
-
-
+ [Buy a Key](mailto:virtualcamera.android@yahoo.com)
 
 ## ðŸ’¸ Pricing
 
 |Plan 1      |Price| 
 | ------------- |-- |
-|1 Month Access |  89$ |
+|1 Month Access |  69$ |
 
 |Plan 2      |Price| 
 | ------------- |-- |
-|LifeTime Access |  399$ |
+|LifeTime Access |  359$ |
 
