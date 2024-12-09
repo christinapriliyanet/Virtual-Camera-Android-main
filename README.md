@@ -6,7 +6,7 @@
 
 
 
-## âš–ï¸ Disclaimer 
+Disclaimer 
 
 The developer disclaims any responsibility for damages or losses due to improper use of VirtuCam. Users bear all responsibility associated with the appâ€™s use.
 
@@ -23,7 +23,7 @@ VirtuCam is designed for users who want full control over their device's camera 
 
 ## â˜‘ï¸ Supported Models 
 
-- [x]  Support RTMP transmission live broadcast By OBS Studio to improve stability
+- [x]  Support RTSP, HL, RTMP transmission live broadcast By OBS Studio to improve stability
 - [x]  Support video selection in advance, define play sequence by definition
 
 
@@ -52,7 +52,7 @@ To run this Application, you will need the following :
 
 ## âš™ï¸ How to use
 
-- [ðŸ“¹ Demo: Spoof The Phone Cemera By OBS With RTMP Flow](virtualcamera.android@yahoo.com)
+- [ðŸ“¹ Demo: Spoof The Phone Cemera By OBS With RTMP Flow](mailto:virtualcamera.android@yahoo.com)
 
 - [ðŸ“¹ Demo: Spoof The Phone Cemera By video selection in advance](virtualcamera.android@yahoo.com)
 
