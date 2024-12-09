@@ -54,13 +54,13 @@ To run this Application, you will need the following :
 
 - [ðŸ“¹ Demo: Spoof The Phone Cemera By OBS With RTMP Flow](mailto:virtualcamera.android@yahoo.com)
 
-- [ðŸ“¹ Demo: Spoof The Phone Cemera By video selection in advance](virtualcamera.android@yahoo.com)
+- [ðŸ“¹ Demo: Spoof The Phone Cemera By video selection in advance](mailto:virtualcamera.android@yahoo.com)
 
-- [ðŸ“¹ Demo: No ROOT Needed](virtualcamera.android@yahoo.com)
+- [ðŸ“¹ Demo: No ROOT Needed](mailto:virtualcamera.android@yahoo.com)
 
-- [ðŸ“¹ Demo: Bypass KYC verification](virtualcamera.android@yahoo.com)
+- [ðŸ“¹ Demo: Bypass KYC verification](mailto:virtualcamera.android@yahoo.com)
 
-- [ðŸ“¹ How to root bluestacks and set it up](virtualcamera.android@yahoo.com)
+- [ðŸ“¹ How to root bluestacks and set it up](mailto:virtualcamera.android@yahoo.com)
 
 ## ðŸ’¡ TIPS
 
