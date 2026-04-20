@@ -1,5 +1,5 @@
 
-![Logo](https://i.postimg.cc/MKDVYfHq/Virtu-Cam-copy.png)
+![Logo]([https://i.postimg.cc/x8R7jG7x/VIRTUAL-CAM.png)
 
 
 
@@ -8,17 +8,17 @@
 
 Disclaimer 
 
-The developer disclaims any responsibility for damages or losses due to improper use of VirtuCam. Users bear all responsibility associated with the appâ€™s use.
+The developer disclaims any responsibility for damages or losses due to improper use of VirtualCam. Users bear all responsibility associated with the appâ€™s use.
 
 
-## ðŸ¤” What is VirtuCam
+## ðŸ¤” What is VirtualCam
 
-VirtuCam is an advanced Android virtual camera powered by Xposed, offering complete control over your deviceâ€™s camera system. With VirtuCam, you can seamlessly spoof and customize your camera's behavior, providing unparalleled flexibility and functionality.
+VirtualCam is an advanced Android virtual camera powered by Xposed, offering complete control over your deviceâ€™s camera system. With VirtualCam, you can seamlessly spoof and customize your camera's behavior, providing unparalleled flexibility and functionality.
 
 
 ## ðŸ”¨ what made for  
 
-VirtuCam is designed for users who want full control over their device's camera system. Whether you're a developer testing camera-based apps, a content creator looking to experiment with visual effects, or simply someone who values privacy and customization, VirtuCam provides the tools to spoof, simulate, and modify your cameraâ€™s output effortlessly. Perfect for enhancing functionality, testing new features, or just having fun with camera capabilities!
+VirtualCam is designed for users who want full control over their device's camera system. Whether you're a developer testing camera-based apps, a content creator looking to experiment with visual effects, or simply someone who values privacy and customization, VirtualCam provides the tools to spoof, simulate, and modify your cameraâ€™s output effortlessly. Perfect for enhancing functionality, testing new features, or just having fun with camera capabilities!
 
 
 ## â˜‘ï¸ Supported Models 
@@ -80,7 +80,7 @@ To run this Application, you will need the following :
 - **Hard vs. Soft Decoding :** While hard decoding often provides smoother playback, its compatibility depends on your mobile device. Soft decoding is generally more adaptable and ensures the video plays correctly on most devices
 
 
-- **No Demo Keys Provided :** We do not offer demo activation keys. All features and instructions are clearly demonstrated in the provided videos. Please watch them to fully understand how VirtuCam works and decide if the app meets your needs before purchasing
+- **No Demo Keys Provided :** We do not offer demo activation keys. All features and instructions are clearly demonstrated in the provided videos. Please watch them to fully understand how VirtualCam works and decide if the app meets your needs before purchasing
 
 
 - 
