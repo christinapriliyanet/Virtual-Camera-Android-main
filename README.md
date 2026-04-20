@@ -15,7 +15,6 @@ The developer disclaims any responsibility for damages or losses due to improper
 
 VirtualCam is an advanced Android virtual camera powered by Xposed, offering complete control over your deviceâ€™s camera system. With VirtualCam, you can seamlessly spoof and customize your camera's behavior, providing unparalleled flexibility and functionality.
 
-
 ## ðŸ”¨ what made for  
 
 VirtualCam is designed for users who want full control over their device's camera system. Whether you're a developer testing camera-based apps, a content creator looking to experiment with visual effects, or simply someone who values privacy and customization, VirtualCam provides the tools to spoof, simulate, and modify your cameraâ€™s output effortlessly. Perfect for enhancing functionality, testing new features, or just having fun with camera capabilities!
